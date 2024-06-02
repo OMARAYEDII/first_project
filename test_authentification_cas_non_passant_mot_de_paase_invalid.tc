@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_authentification_cas_non_passant_mot_de_paase_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9838a04e-55e9-4744-965d-c9b72cc55afe</testCaseGuid>
+</TestCaseEntity>

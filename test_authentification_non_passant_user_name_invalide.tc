@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_authentification_non_passant_user_name_invalide</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dd3d494-f474-41a7-a8a5-845228ae014b</testCaseGuid>
+</TestCaseEntity>
